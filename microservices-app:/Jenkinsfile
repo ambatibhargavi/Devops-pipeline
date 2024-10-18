@@ -1,0 +1,45 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                script {
+                    // Build Docker image for service1
+                    sh 'docker build -t bharu2003/service1:latest ./service1'  // Replace with your Docker Hub username
+                }
+            }
+        }
+        
+        stage('Push') {
+            steps {
+                script {
+                    // Login to Docker Hub using credentials stored in Jenkins
+                    withCredentials([string(credentialsId: 'dockerhub-credentials', variable: 'DOCKERHUB_PASS')]) {
+                        sh 'docker login -u bharu2003 -p $Bharu@2003' // Replace with your Docker Hub username
+                        // Push Docker image to Docker Hub
+                        sh 'docker push bharu2003/service1:latest' // Replace with your Docker Hub username
+                    }
+                }
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                script {
+                    // Apply Kubernetes configurations for deployment and service
+                    sh 'kubectl apply -f k8s/service1-deployment.yaml'
+                    sh 'kubectl apply -f k8s/service1-service.yaml'
+                }
+            }
+        }
+    }
+
+    post {
+        always {
+            echo 'Cleaning up...'
+            // Optionally clean up Docker images or resources
+            sh 'docker rmi bharu2003/service1:latest' 
+        }
+    }
+}
