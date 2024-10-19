@@ -6,7 +6,7 @@ pipeline {
             steps {
                 script {
                     // Build Docker image for service1
-                    sh 'docker build -t bharu2003/service1:latest ./service1'  // Replace with your Docker Hub username
+                    sh 'docker build -t bharu2003/devops:v1 .'  // Replace with your Docker Hub username
                 }
             }
         }
@@ -18,7 +18,7 @@ pipeline {
                     withCredentials([string(credentialsId: 'dockerhub-credentials', variable: 'DOCKERHUB_PASS')]) {
                         sh 'docker login -u bharu2003 -p $Bharu@2003' // Replace with your Docker Hub username
                         // Push Docker image to Docker Hub
-                        sh 'docker push bharu2003/service1:latest' // Replace with your Docker Hub username
+                        sh 'docker push bharu2003/devops:v1' // Replace with your Docker Hub username
                     }
                 }
             }
@@ -39,7 +39,7 @@ pipeline {
         always {
             echo 'Cleaning up...'
             // Optionally clean up Docker images or resources
-            sh 'docker rmi bharu2003/service1:latest' 
+            sh 'docker rmi bharu2003/devops:v1' 
         }
     }
 }
