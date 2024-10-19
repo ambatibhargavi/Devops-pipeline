@@ -62,11 +62,11 @@ cd service1-ci-cd
 
 ## Output
 <img width="904" alt="Screenshot 2024-10-18 at 22 27 33" src="https://github.com/user-attachments/assets/ef9f5156-d71d-4219-853d-56ea0d9abbd2">
-<img width="1372" alt="Screenshot 2024-10-18 at 14 32 01" src="https://github.com/user-attachments/assets/b5e3534e-6d4a-48a7-8f94-202a6c1466b7">
+<img width="1300" alt="Screenshot 2024-10-18 at 14 32 01" src="https://github.com/user-attachments/assets/b5e3534e-6d4a-48a7-8f94-202a6c1466b7">
 <img width="1104" alt="Screenshot 2024-10-19 at 18 31 38" src="https://github.com/user-attachments/assets/0efda6fa-2916-4cc3-be3f-9d72d46f9696">
 <img width="1397" alt="Screenshot 2024-10-19 at 18 32 56" src="https://github.com/user-attachments/assets/194fa45b-d7d8-4807-845b-cd6cc964246a">
-<img width="1208" alt="Screenshot 2024-10-19 at 18 38 24" src="https://github.com/user-attachments/assets/082be26c-e1fb-455a-986b-89bf3c866de7">
 <img width="1409" alt="Screenshot 2024-10-19 at 18 38 49" src="https://github.com/user-attachments/assets/a41ccddc-f6bf-4f7f-92f1-8b0844144150">
+<img width="1208" alt="Screenshot 2024-10-19 at 18 38 24" src="https://github.com/user-attachments/assets/082be26c-e1fb-455a-986b-89bf3c866de7">
 <img width="1170" alt="Screenshot 2024-10-19 at 18 39 13" src="https://github.com/user-attachments/assets/eeafc3c1-0ee4-4003-82a4-8417ca56af10">
 
 
