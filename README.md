@@ -63,8 +63,9 @@ cd service1-ci-cd
 ## Output
 <img width="904" alt="Screenshot 2024-10-18 at 22 27 33" src="https://github.com/user-attachments/assets/ef9f5156-d71d-4219-853d-56ea0d9abbd2">
 <img width="1372" alt="Screenshot 2024-10-18 at 14 32 01" src="https://github.com/user-attachments/assets/b5e3534e-6d4a-48a7-8f94-202a6c1466b7">
-![Screenshot 2024-10-18 at 14 39 01](https://github.com/user-attachments/assets/504c7649-2508-4b6d-88a8-ab2fa2408584)
-![Screenshot 2024-10-18 at 19 51 10](https://github.com/user-attachments/assets/85772a99-eb23-4e56-ba6e-a0818d9e4d35)
-![Screenshot 2024-10-18 at 19 51 51](https://github.com/user-attachments/assets/d2a7310e-83ca-4865-846f-094ddfbf8bd7)
+![Screenshot 2024-10-18 at 14 39 01](https://github.com/user-attachments/assets/49c068b1-4fdd-4122-ba1a-5ebb60ad135f)
+
+
+
 
 
