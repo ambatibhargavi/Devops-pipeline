@@ -10,6 +10,7 @@ This project demonstrates a complete CI/CD pipeline for a microservice called `s
 - [Setup Instructions](#setup-instructions)
   - [Pre-requisites](#pre-requisites)
   - [Clone the Repository](#clone-the-repository)
+  - [Output](#Output-Review)
 
 ## Project Overview
 
@@ -44,7 +45,5 @@ git clone https://github.com/your-username/service1-ci-cd.git
 cd service1-ci-cd
 
 
-
-
-<img width="904" alt="Screenshot 2024-10-18 at 22 27 33" src="https://github.com/user-attachments/assets/c869cbd6-aea1-4a60-ad4d-59471e845635">
+### Output
 
