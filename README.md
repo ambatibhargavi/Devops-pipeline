@@ -43,12 +43,8 @@ git clone https://github.com/your-username/service1-ci-cd.git
 
 cd service1-ci-cd
 
-<img width="904" alt="Screenshot 2024-10-18 at 22 27 33" src="https://github.com/user-attachments/assets/6ebc2b4b-1693-426a-928d-dd1f581e1122">
-<img width="1372" alt="Screenshot 2024-10-18 at 14 32 01" src="https://github.com/user-attachments/assets/b417e265-f5d6-44d8-9291-ba0baa21d9d4">
-![Screenshot 2024-10-18 at 14 39 01](https://github.com/user-attachments/assets/4792f60a-0cfc-47e9-a737-db381835b6bf)
-<img width="1425" alt="Screenshot 2024-10-19 at 17 11 35" src="https://github.com/user-attachments/assets/7fba67d5-5799-4dec-9531-e747430e167b">
-![Screenshot 2024-10-18 at 19 51 10](https://github.com/user-attachments/assets/af3ca445-846e-4f4b-8ebb-acf5ae7fe773)
-![Screenshot 2024-10-18 at 19 51 51](https://github.com/user-attachments/assets/d5baac0b-d6d5-444e-b3df-07468deeee9c)
 
 
+
+<img width="904" alt="Screenshot 2024-10-18 at 22 27 33" src="https://github.com/user-attachments/assets/c869cbd6-aea1-4a60-ad4d-59471e845635">
 
