@@ -1,4 +1,3 @@
-# Devops-pipeline
 
 # Service1 CI/CD Pipeline with Jenkins, Docker, and Kubernetes
 
