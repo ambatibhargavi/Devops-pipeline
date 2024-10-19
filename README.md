@@ -1,6 +1,7 @@
 # Devops-pipeline
 
 # Service1 CI/CD Pipeline with Jenkins, Docker, and Kubernetes
+
 This project demonstrates a complete CI/CD pipeline for a microservice called `service1`. The pipeline uses Jenkins to automate the process of building a Docker image, pushing it to Docker Hub, and deploying it to a Kubernetes cluster.
 
 ## Table of Contents
@@ -10,7 +11,8 @@ This project demonstrates a complete CI/CD pipeline for a microservice called `s
 - [Setup Instructions](#setup-instructions)
   - [Pre-requisites](#pre-requisites)
   - [Clone the Repository](#clone-the-repository)
-  - [Output](#Output-Review)
+  - [Docker Setup](#docker-setup)
+- [Output](#output)
 
 ## Project Overview
 
@@ -39,11 +41,13 @@ Make sure you have the following installed on your local machine or server:
 ### Clone the Repository
 
 Clone this repository to your local machine:
-```bash
 git clone https://github.com/your-username/service1-ci-cd.git
-
 cd service1-ci-cd
 
 
-### Output
+### Docker Setup
+
+![Screenshot 2024-10-19 at 17 31 13](https://github.com/user-attachments/assets/514088a4-fbac-4931-aa28-666f2de19aec)
+
+
 
