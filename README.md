@@ -12,6 +12,8 @@ This project demonstrates a complete CI/CD pipeline for a microservice called `s
   - [Pre-requisites](#pre-requisites)
   - [Clone the Repository](#clone-the-repository)
   - [Docker Setup](#docker-setup)
+  - [Kubernetes Setup](#kubernetes-setup)
+- [Jenkins Pipeline Stages](#jenkins-pipeline-stages)
 - [Output](#output)
 
 ## Project Overview
@@ -41,7 +43,7 @@ Make sure you have the following installed on your local machine or server:
 ### Clone the Repository
 
 Clone this repository to your local machine:
-git clone https://github.com/your-username/service1-ci-cd.git
+git clone https://github.com/ambatibhargavi/microservices-app.git
 cd service1-ci-cd
 
 
@@ -49,5 +51,20 @@ cd service1-ci-cd
 
 ![Screenshot 2024-10-19 at 17 31 13](https://github.com/user-attachments/assets/514088a4-fbac-4931-aa28-666f2de19aec)
 
+
+### Kubernetes Files
+
+![Screenshot 2024-10-19 at 17 41 37](https://github.com/user-attachments/assets/73deb384-9cfb-49ef-b696-3fd86cbe554d)
+
+
+## Jenkins Pipeline Stages
+![Screenshot 2024-10-19 at 18 01 46](https://github.com/user-attachments/assets/2b07865e-56c9-4ddc-94f2-9696505fcb0f)
+
+## Output
+<img width="904" alt="Screenshot 2024-10-18 at 22 27 33" src="https://github.com/user-attachments/assets/ef9f5156-d71d-4219-853d-56ea0d9abbd2">
+<img width="1372" alt="Screenshot 2024-10-18 at 14 32 01" src="https://github.com/user-attachments/assets/b5e3534e-6d4a-48a7-8f94-202a6c1466b7">
+![Screenshot 2024-10-18 at 14 39 01](https://github.com/user-attachments/assets/504c7649-2508-4b6d-88a8-ab2fa2408584)
+![Screenshot 2024-10-18 at 19 51 10](https://github.com/user-attachments/assets/85772a99-eb23-4e56-ba6e-a0818d9e4d35)
+![Screenshot 2024-10-18 at 19 51 51](https://github.com/user-attachments/assets/d2a7310e-83ca-4865-846f-094ddfbf8bd7)
 
 
